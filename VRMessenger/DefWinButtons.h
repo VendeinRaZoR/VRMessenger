@@ -1,0 +1,22 @@
+#define ID_BUTTON01 0
+#define ID_BUTTON02 1
+#define ID_BUTTON03 2
+#define ID_BUTTON04 3
+#define ID_BUTTON05 4
+#define ID_BUTTON06 5
+#define ID_BUTTON07 6
+#define ID_BUTTON08 7
+#define ID_BUTTON09 8
+#define ID_BUTTON010 9
+#define ID_BUTTON011 10
+#define ID_BUTTON012 11
+#define ID_BUTTON013 12
+#define ID_BUTTON014 13
+#define ID_BUTTON015 14
+#define ID_BUTTON016 15
+#define ID_BUTTON017 16
+#define ID_BUTTON018 17
+#define ID_BUTTON019 18
+#define ID_BUTTON020 19
+
+enum Buttons{Button01=ID_BUTTON01,Button02=ID_BUTTON02,Button03=ID_BUTTON03,Button04=ID_BUTTON04};

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VRMessenger", "VRMessenger\VRMessenger.vcproj", "{A8E97B8A-C708-452E-AE9F-16A357BC24DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E97B8A-C708-452E-AE9F-16A357BC24DE}.Debug|Win32.ActiveCfg = Release|Win32
+		{A8E97B8A-C708-452E-AE9F-16A357BC24DE}.Debug|Win32.Build.0 = Release|Win32
+		{A8E97B8A-C708-452E-AE9F-16A357BC24DE}.Release|Win32.ActiveCfg = Release|Win32
+		{A8E97B8A-C708-452E-AE9F-16A357BC24DE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
